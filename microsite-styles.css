@@ -1,0 +1,134 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar {
+	background-color: #6E63C7;
+	color: #6E63C7;
+}
+.nav-link {
+	color: #1F0029;
+}
+
+.nav-link:hover {
+	color: #D4F3BE;
+}
+
+.navbar-brand {
+	color: #1F0029;
+	font-family:"Gothic 45";
+}
+
+.navbar-brand:hover {
+	color: #D4F3BE;
+}
+
+body {
+    background-color: #1f0029;
+    color: #d4f3be;
+    font-family: "Bai Jamjuree";
+	margin: 30px;
+}
+
+charity {
+	color: #6E63C7;
+}
+
+h1 {
+	color: #8CE019;
+	font-family: "Gothic 45";
+	margin-top: 40px;
+}
+
+.carousel-item img {
+	max-height: 275px;
+	min-height: 100px;
+}
+
+.carousel {
+	background-color:aqua
+}
+
+.collapsed {
+	color:#beb3de;
+}
+
+.collapse-show {
+	color:#6e63c7;
+}
+.collapsed:hover {
+	color:#1F0029;
+}
+
+.card {
+	background-color:#1f0029;
+}
+
+.card-body {
+	color:#D4F3BE;
+}
+
+.card-header {
+	background-color: #6e63c7;
+}
+
+.collapsed:true {
+	color: aqua;
+}
+
+.footer-social {
+	display: block;
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+}
+.footer-social li {
+	display: inline-block;
+	margin: 0 1.2em;
+}
+.footer-social li a {
+	line-height: 3.5em;
+	display: inline-block;
+	width: 4em;
+	height: 4em;
+	text-align: center;
+	border: 2px rgba(255,255,255.3);
+	border-radius: 50%
+}
+.footer-social li a img {
+	width: auto;
+	height: 2.5em;
+}
+.footer-social li a .social-hover {
+	display: none;
+}
+.footer-social li a:hover .social-default {
+	display: none;
+}
+.footer-social li a:hover .social-hover {
+	display: inline;
+}
+
+.footer-info {
+	text-align: center;
+}
+
+.footer-disclaimer {
+	color: #D4F3BE;
+	opacity: 0.75;
+}
+
+.social{
+	color: #BEB3DE;
+}
+
+.here {
+	color: #6E63C7;
+}
+
+.here:hover {
+	color:#6e63c7;
+}
+
+.navbar-toggler-icon {
+	color:aqua
+}
